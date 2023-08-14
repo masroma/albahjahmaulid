@@ -197,6 +197,13 @@ body {
   margin-right: 10px;
   margin-bottom: 10px;
 }
+.container .footer .button-daftar a {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+}
 .container .footer .button-daftar button {
   width: 100%;
   padding: 10px;
