@@ -193,12 +193,11 @@ body {
   justify-content: space-between;
 }
 .container .footer .button-daftar {
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  width: 100%;
 }
 .container .footer .button-daftar a {
-  width: 500px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 10px;
