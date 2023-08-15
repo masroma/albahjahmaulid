@@ -199,7 +199,8 @@ body {
 }
 .container .footer .button-daftar a {
   width: 500px;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border-radius: 10px;
   background-color: green;
   color: white;
